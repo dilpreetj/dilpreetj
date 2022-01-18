@@ -9,11 +9,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Mobile Automation with Appium 2.0 and WebdriverIO - 2022](https://www.youtube.com/watch?v=RpJSybxtkrg)
 - [Selenium Python using SeleniumBase Framework | Full 3 hours Course](https://www.youtube.com/watch?v=D0-QGMacMxA)
 - [Selenium Docker Integration Crash Course](https://www.youtube.com/watch?v=Mz8LXYyWD-o)
 - [Race to 5k subscribers &amp; Free Giveaway!](https://www.youtube.com/watch?v=_L2fvnzF0ek)
 - [Selenium 4.0 features explained in 4 mins!](https://www.youtube.com/watch?v=ZdUBoR45gko)
-- [Cypress File Upload Example | How to upload a file in Cypress?](https://www.youtube.com/watch?v=2jVf6u0yKeY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
