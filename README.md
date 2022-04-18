@@ -19,9 +19,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cypress vs WebdriverIO | Which one to pick?](https://automationbro.com/blog/cypress-vs-webdriverio-which-one-to-pick/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-vs-webdriverio-which-one-to-pick)
 - [Selenium 4.0 — Major Changes](https://automationbro.com/blog/selenium-4-changes/?utm_source=rss&utm_medium=rss&utm_campaign=selenium-4-changes)
 - [How to upload a file in Cypress?](https://automationbro.com/blog/cyress-file-upload/?utm_source=rss&utm_medium=rss&utm_campaign=cyress-file-upload)
 - [Top 3 mistakes every Test Automation Engineer makes!](https://automationbro.com/blog/top-3-test-automation-mistakes/?utm_source=rss&utm_medium=rss&utm_campaign=top-3-test-automation-mistakes)
 - [Page Object Model in Cypress](https://automationbro.com/blog/cypress-page-object-model/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-page-object-model)
-- [Working with Input Fields in Cypress](https://automationbro.com/blog/cypress-input-fields/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-input-fields)
 <!-- BLOG-POST-LIST:END -->
