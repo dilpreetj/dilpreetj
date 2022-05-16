@@ -9,11 +9,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Postman File Upload &lpar;Image and Video&rpar;](https://www.youtube.com/watch?v=aZLeWskC0Dw)
 - [5K Subscribers! | Giveaway Winners](https://www.youtube.com/watch?v=ev2bpeqo4zk)
 - [Cypress vs WebdriverIO | Which one to pick?](https://www.youtube.com/watch?v=hhtclmRlAA0)
 - [Course Overview | Mobile Automation with Appium and WebdriverIO](https://www.youtube.com/watch?v=rbVzqMo0_p8)
 - [Mobile Automation with Appium 2.0 and WebdriverIO - 2022](https://www.youtube.com/watch?v=RpJSybxtkrg)
-- [Selenium Python using SeleniumBase Framework | Full 3 hours Course](https://www.youtube.com/watch?v=D0-QGMacMxA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
