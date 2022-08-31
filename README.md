@@ -9,7 +9,7 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Form Input Fields | Selenide Tutorial Series](https://www.youtube.com/watch?v=WiRtmHs-V8c)
+- [Working with Text, Dropdown and Date Input Field in Selenide](https://www.youtube.com/watch?v=WiRtmHs-V8c)
 - [Working with Multiple Elements | Selenide Tutorial Series](https://www.youtube.com/watch?v=0tlpiXcFcAU)
 - [Working with Elements | Selenide Tutorial Series](https://www.youtube.com/watch?v=ywVQMxm0lDI)
 - [Project and Test Setup | Selenide Tutorial Series](https://www.youtube.com/watch?v=77iwTZNQJoc)
