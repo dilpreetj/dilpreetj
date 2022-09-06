@@ -9,11 +9,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Playwright - Complete Beginner Course 2022 &lpar;New Course&rpar;](https://www.youtube.com/watch?v=3lqJrwJJ-AM)
+- [Become a Mocha JS Ninja 🥷🏻](https://www.youtube.com/watch?v=oIVjjCFmTAY)
 - [Working with Text, Dropdown and Date Input Field in Selenide](https://www.youtube.com/watch?v=WiRtmHs-V8c)
 - [Working with Multiple Elements | Selenide Tutorial Series](https://www.youtube.com/watch?v=0tlpiXcFcAU)
 - [Working with Elements | Selenide Tutorial Series](https://www.youtube.com/watch?v=ywVQMxm0lDI)
-- [Project and Test Setup | Selenide Tutorial Series](https://www.youtube.com/watch?v=77iwTZNQJoc)
-- [Selenide &lpar;Selenium&rpar; Java Tutorial Series](https://www.youtube.com/watch?v=0vlV8_4EDAg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
