@@ -9,11 +9,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [SDET Academy Launch | Begin your SDET Journey](https://www.youtube.com/watch?v=hzwPg8LEOY8)
 - [Handling new tab in Cypress using Invoke method](https://www.youtube.com/watch?v=SLhg0yKZFy8)
 - [Upload file using Selenide | Selenide Tutorial Series](https://www.youtube.com/watch?v=MA8QC4Eoaps)
 - [Microsoft Playwright Course Overview](https://www.youtube.com/watch?v=OfSsQrle8T4)
 - [Playwright - Complete Beginner Course 2022 &lpar;New Course&rpar;](https://www.youtube.com/watch?v=3lqJrwJJ-AM)
-- [Become a Mocha JS Ninja 🥷🏻](https://www.youtube.com/watch?v=oIVjjCFmTAY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
