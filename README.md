@@ -3,6 +3,7 @@
 My name is Dilpreet Johal! I believe getting started with **Test Automation** shouldn't be hard and I am here to help you out with that through my content -
 
 - **YouTube:** https://youtube.com/automationbro
+- **Academy:** https://academy.sdetunicorns.com
 - **Udemy** https://www.udemy.com/user/automation-bro/
 - **Twitter** https://twitter.com/AutomationBro
 
