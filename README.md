@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Page Object Model | Selenide Tutorial Series](https://www.youtube.com/watch?v=Yf4dj2y2H1o)
 - [Top 3 Mistakes of Test Automation Engineers](https://www.youtube.com/watch?v=JcrzWQQPdwY)
 - [Dealing with Tabs in Cypress 🤔](https://www.youtube.com/watch?v=1IKEXMxcoLs)
 - [Mobile Automation Testing using WebdriverIO](https://www.youtube.com/watch?v=XXaxOL-6gPA)
 - [SDET Academy Launch | Begin your SDET Journey](https://www.youtube.com/watch?v=hzwPg8LEOY8)
-- [Handling new tab in Cypress using Invoke method](https://www.youtube.com/watch?v=SLhg0yKZFy8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
