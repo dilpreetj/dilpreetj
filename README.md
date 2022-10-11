@@ -20,9 +20,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Page Object Model – Selenide Tutorial Series](https://automationbro.com/blog/selenide-page-object-model/?utm_source=rss&utm_medium=rss&utm_campaign=selenide-page-object-model)
 - [SDET Academy Launch | Begin your SDET journey](https://automationbro.com/blog/sdet-unicorns-academy-launch/?utm_source=rss&utm_medium=rss&utm_campaign=sdet-unicorns-academy-launch)
 - [Working with Multiple Elements in Selenide](https://automationbro.com/blog/multiple-elements-selenide/?utm_source=rss&utm_medium=rss&utm_campaign=multiple-elements-selenide)
 - [Working with Elements | Selenide Tutorial Series](https://automationbro.com/blog/selenide-working-with-elements/?utm_source=rss&utm_medium=rss&utm_campaign=selenide-working-with-elements)
 - [Selenide Project and Test Setup](https://automationbro.com/blog/selenide-project-and-test-setup/?utm_source=rss&utm_medium=rss&utm_campaign=selenide-project-and-test-setup)
-- [Selenide Tutorial Series](https://automationbro.com/blog/selenide-tutorial-series/?utm_source=rss&utm_medium=rss&utm_campaign=selenide-tutorial-series)
 <!-- BLOG-POST-LIST:END -->
