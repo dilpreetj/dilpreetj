@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Cross Browser Testing | Selenide Tutorial Series](https://www.youtube.com/watch?v=EYv8c-94MRA)
 - [Cypress Variables | How does it work? | Q&amp;A](https://www.youtube.com/watch?v=JAhpzF4WEZM)
 - [WebdriverIO Performance Testing 📊](https://www.youtube.com/watch?v=q4U-DfRjux4)
 - [QE/SDETs make more than Devs? 🤑](https://www.youtube.com/watch?v=BrXXAJiW8n8)
 - [Page Object Model | Selenide Tutorial Series](https://www.youtube.com/watch?v=Yf4dj2y2H1o)
-- [Top 3 Mistakes of Test Automation Engineers](https://www.youtube.com/watch?v=JcrzWQQPdwY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
