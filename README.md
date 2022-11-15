@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://www.youtube.com/watch?v=iiGy69gMeAw)
 - [Selenium vs Playwright in 1 minute! ⚔](https://www.youtube.com/watch?v=iBmo_JJkc1Y)
 - [Cross Browser Testing | Selenide Tutorial Series](https://www.youtube.com/watch?v=EYv8c-94MRA)
 - [Cypress Variables | How does it work? | Q&amp;A](https://www.youtube.com/watch?v=JAhpzF4WEZM)
 - [WebdriverIO Performance Testing 📊](https://www.youtube.com/watch?v=q4U-DfRjux4)
-- [QE/SDETs make more than Devs? 🤑](https://www.youtube.com/watch?v=BrXXAJiW8n8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
