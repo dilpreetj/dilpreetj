@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Playwright with Typescript tutorial on FIFA World cup site ⚽️](https://www.youtube.com/watch?v=Ov9e_F8I5zc)
 - [Black Friday 2022 Sale | Get 70% off on all courses!](https://www.youtube.com/watch?v=F0pt9ZWTP4s)
 - [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://www.youtube.com/watch?v=iiGy69gMeAw)
 - [Selenium vs Playwright in 1 minute! ⚔](https://www.youtube.com/watch?v=iBmo_JJkc1Y)
 - [Cross Browser Testing | Selenide Tutorial Series](https://www.youtube.com/watch?v=EYv8c-94MRA)
-- [Cypress Variables | How does it work? | Q&amp;A](https://www.youtube.com/watch?v=JAhpzF4WEZM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
