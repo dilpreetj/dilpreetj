@@ -20,9 +20,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright with Typescript tutorial on FIFA World cup site](https://automationbro.com/blog/playwright-typescript-fifa-site/?utm_source=rss&utm_medium=rss&utm_campaign=playwright-typescript-fifa-site)
 - [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://automationbro.com/blog/cypress-otp-automation/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-otp-automation)
 - [Cross Browser Testing in Selenide](https://automationbro.com/blog/selenide-cross-browser-testing/?utm_source=rss&utm_medium=rss&utm_campaign=selenide-cross-browser-testing)
 - [Cypress Variables | How does it work?](https://automationbro.com/blog/cypress-variables/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-variables)
 - [Page Object Model – Selenide Tutorial Series](https://automationbro.com/blog/selenide-page-object-model/?utm_source=rss&utm_medium=rss&utm_campaign=selenide-page-object-model)
-- [SDET Academy Launch | Begin your SDET journey](https://automationbro.com/blog/sdet-unicorns-academy-launch/?utm_source=rss&utm_medium=rss&utm_campaign=sdet-unicorns-academy-launch)
 <!-- BLOG-POST-LIST:END -->
