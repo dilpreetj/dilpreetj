@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Can an AI &lpar;ChatGPT&rpar; build test automation scripts from scratch? 🤯](https://www.youtube.com/watch?v=84O4_JqBqVE)
 - [Read CSV file using Cypress fixture](https://www.youtube.com/watch?v=8h1pUyVHqn0)
 - [Playwright Testing with Typescript Crash Course](https://www.youtube.com/watch?v=Ov9e_F8I5zc)
 - [Black Friday 2022 Sale | Get 70% off on all courses!](https://www.youtube.com/watch?v=F0pt9ZWTP4s)
 - [Automate One Time Password &lpar;OTP&rpar; using Cypress](https://www.youtube.com/watch?v=iiGy69gMeAw)
-- [Selenium vs Playwright in 1 minute! ⚔](https://www.youtube.com/watch?v=iBmo_JJkc1Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
