@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Data Driven testing using Postman JSON file](https://www.youtube.com/watch?v=XM6kh_jnUSY)
 - [Postman Data Driven Testing with CSV Data File | Postman Testing Tutorial](https://www.youtube.com/watch?v=Hwmdq1fpbUA)
 - [Can an AI &lpar;ChatGPT&rpar; build test automation scripts from scratch? 🤯](https://www.youtube.com/watch?v=84O4_JqBqVE)
 - [Read CSV file using Cypress fixture](https://www.youtube.com/watch?v=8h1pUyVHqn0)
 - [Playwright Tutorial Crash Course using Typescript | Learn Playwright Testing](https://www.youtube.com/watch?v=Ov9e_F8I5zc)
-- [Black Friday 2022 Sale | Get 70% off on all courses!](https://www.youtube.com/watch?v=F0pt9ZWTP4s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
