@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Newman Data Driven Testing | Newman Postman Tutorial](https://www.youtube.com/watch?v=vmTyNFAmFAY)
 - [Postman File Upload &lpar;Video&rpar;](https://www.youtube.com/watch?v=cOxUB2xps10)
 - [Postman File Upload &lpar;Image&rpar;](https://www.youtube.com/watch?v=BR4vVEr49uA)
 - [Data Driven testing using Postman JSON file](https://www.youtube.com/watch?v=XM6kh_jnUSY)
 - [Postman Data Driven Testing with CSV Data File | Postman Testing Tutorial](https://www.youtube.com/watch?v=Hwmdq1fpbUA)
-- [Can an AI &lpar;ChatGPT&rpar; build test automation scripts from scratch? 🤯](https://www.youtube.com/watch?v=84O4_JqBqVE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
