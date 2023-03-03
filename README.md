@@ -20,9 +20,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Driven Testing using Newman CLI](https://automationbro.com/blog/newman-data-driven-testing/?utm_source=rss&utm_medium=rss&utm_campaign=newman-data-driven-testing)
 - [Data Driven Testing using JSON file in Postman](https://automationbro.com/blog/data-driven-testing-using-json-file-in-postman/?utm_source=rss&utm_medium=rss&utm_campaign=data-driven-testing-using-json-file-in-postman)
 - [Postman Data Driven Testing with CSV file](https://automationbro.com/blog/postman-csv-data-driven-testing/?utm_source=rss&utm_medium=rss&utm_campaign=postman-csv-data-driven-testing)
 - [Can an AI &lpar;ChatGPT&rpar; tool write Test Automation scripts?](https://automationbro.com/blog/chatgpt-test-automation/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-test-automation)
 - [Reading a CSV file in Cypress using fixture](https://automationbro.com/blog/cypress-csv-fixture/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-csv-fixture)
-- [Playwright with Typescript tutorial on FIFA World cup site](https://automationbro.com/blog/playwright-typescript-fifa-site/?utm_source=rss&utm_medium=rss&utm_campaign=playwright-typescript-fifa-site)
 <!-- BLOG-POST-LIST:END -->
