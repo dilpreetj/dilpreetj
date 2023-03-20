@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Cypress Scrolling in 60 Seconds: Test Automation Made Easy &amp; Fast 🚀](https://www.youtube.com/watch?v=_TcIHFp2fLw)
 - [How to get a job in recession in 2023](https://www.youtube.com/watch?v=ok5tvrt-5Xg)
 - [Postman Automation Testing ⚙️ #shorts](https://www.youtube.com/watch?v=00w1KBNJ5AM)
 - [Unlock VSCode Productivity with Postman Integration 👀 #shorts](https://www.youtube.com/watch?v=7wdbr-zV3hM)
 - [Stop writing long Selenium Python code! ❌ #shorts](https://www.youtube.com/watch?v=9vTzKNXvozE)
-- [Newman Data Driven Testing | Newman Postman Tutorial](https://www.youtube.com/watch?v=vmTyNFAmFAY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
