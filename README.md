@@ -10,8 +10,8 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Selenium Python - How to set browser window size?](https://www.youtube.com/watch?v=yQpX3lLomz0)
 - [Sanjay Kumar is Changing the Way We Test: Find Out How!](https://www.youtube.com/watch?v=antWnLsABFk)
+- [Selenium Python - How to set browser window size?](https://www.youtube.com/watch?v=yQpX3lLomz0)
 - [How This Freelancer Made $45k+ on Upwork: Tips to Succeed in Freelancing](https://www.youtube.com/watch?v=33X3vJSH3_I)
 - [How to scroll in Cypress - Part 2 👩🏻‍💻 #shorts](https://www.youtube.com/watch?v=rCZPf5_DZdw)
 - [Cypress Scrolling in 60 Seconds: Test Automation Made Easy &amp; Fast 🚀](https://www.youtube.com/watch?v=_TcIHFp2fLw)
