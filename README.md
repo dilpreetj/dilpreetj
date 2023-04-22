@@ -10,7 +10,7 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Linux command line essentials for beginners](https://www.youtube.com/watch?v=LlhJmav9024)
+- [Linux Command Line Introduction | Command Line Series](https://www.youtube.com/watch?v=LlhJmav9024)
 - [Sanjay Kumar is Changing the Way We Test: Find Out How!](https://www.youtube.com/watch?v=antWnLsABFk)
 - [Selenium Python - How to set browser window size?](https://www.youtube.com/watch?v=yQpX3lLomz0)
 - [How This Freelancer Made $45k+ on Upwork: Tips to Succeed in Freelancing](https://www.youtube.com/watch?v=33X3vJSH3_I)
