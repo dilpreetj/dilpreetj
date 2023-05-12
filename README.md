@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Harnessing AI in Test Automation: Exciting Upcoming Workshop! 🚀](https://www.youtube.com/watch?v=8CgSuBu-nXA)
 - [Linux Terminal Basics | Linux Command Line Series](https://www.youtube.com/watch?v=oAPUH8Wtvv8)
 - [Selenium WebDriver Architecture Explained in 1 min!  🚀](https://www.youtube.com/watch?v=K2dJILNmb-g)
 - [Linux Command Line Introduction | Command Line Series](https://www.youtube.com/watch?v=LlhJmav9024)
 - [Sanjay Kumar is Changing the Way We Test: Find Out How!](https://www.youtube.com/watch?v=antWnLsABFk)
-- [Selenium Python - How to set browser window size?](https://www.youtube.com/watch?v=yQpX3lLomz0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
