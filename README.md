@@ -10,7 +10,7 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Don&#39;t Miss Out: Master AI in Test Automation Workshop 🔥 #shorts](https://www.youtube.com/watch?v=dXYRenavFuI)
+- [Don&#39;t Miss Out: Master AI in Test Automation Workshop](https://www.youtube.com/watch?v=dXYRenavFuI)
 - [Harnessing AI in Test Automation: Exciting Upcoming Workshop! 🚀](https://www.youtube.com/watch?v=8CgSuBu-nXA)
 - [Linux Terminal Basics | Linux Command Line Series](https://www.youtube.com/watch?v=oAPUH8Wtvv8)
 - [Selenium WebDriver Architecture Explained in 1 min!  🚀](https://www.youtube.com/watch?v=K2dJILNmb-g)
