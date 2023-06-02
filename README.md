@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Writing Killer Test Cases: Unleash Your Testing Power with 3 Essential Tips #shorts](https://www.youtube.com/watch?v=NTQEm7NYUGo)
 - [Test Cases, Test Scenarios, Test Scripts: The Ultimate Comparison #shorts](https://www.youtube.com/watch?v=GWr9V2zyL10)
 - [The Testing Pyramid Demystified: Conquer Test Automation Today #shorts](https://www.youtube.com/watch?v=zph_4tYvBgI)
 - [Don&#39;t Miss Out: Master AI in Test Automation Workshop](https://www.youtube.com/watch?v=dXYRenavFuI)
 - [Harnessing AI in Test Automation: Exciting Upcoming Workshop! 🚀](https://www.youtube.com/watch?v=8CgSuBu-nXA)
-- [Linux Terminal Basics | Linux Command Line Series](https://www.youtube.com/watch?v=oAPUH8Wtvv8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
