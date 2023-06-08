@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Why Do We Call Software Glitches &#39;Bugs&#39;? The Answer Will Surprise You! 🐞 #shorts](https://www.youtube.com/watch?v=7hlZSF8xgFI)
 - [Writing Manual Test Cases: 3 Essential Tips for Beginners - Part 2 #shorts](https://www.youtube.com/watch?v=FjreIDNqw8g)
 - [Writing Manual Test Cases: 3 Essential Tips for Beginners #shorts](https://www.youtube.com/watch?v=NTQEm7NYUGo)
 - [Test Cases, Test Scenarios, Test Scripts: The Ultimate Comparison #shorts](https://www.youtube.com/watch?v=GWr9V2zyL10)
 - [The Testing Pyramid Demystified: Conquer Test Automation Today #shorts](https://www.youtube.com/watch?v=zph_4tYvBgI)
-- [Don&#39;t Miss Out: Master AI in Test Automation Workshop](https://www.youtube.com/watch?v=dXYRenavFuI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
