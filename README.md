@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Welcome to Our Rebranded Channel: SDET Unicorns](https://www.youtube.com/watch?v=5-pI8ZDYKjs)
 - [Understanding Black Box vs White Box Testing with Examples #shorts](https://www.youtube.com/watch?v=xQZPpTGUuTo)
 - [Most underrated skill as a Software Tester  #shorts](https://www.youtube.com/watch?v=prxnhuxy7os)
 - [Why Do We Call Software Glitches &#39;Bugs&#39;? The Answer Will Surprise You! 🐞 #shorts](https://www.youtube.com/watch?v=7hlZSF8xgFI)
 - [Writing Manual Test Cases: 3 Essential Tips for Beginners - Part 2 #shorts](https://www.youtube.com/watch?v=FjreIDNqw8g)
-- [Writing Manual Test Cases: 3 Essential Tips for Beginners #shorts](https://www.youtube.com/watch?v=NTQEm7NYUGo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
