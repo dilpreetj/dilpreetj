@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [When to Stop Testing: A Crucial Question in Software QA Interviews](https://www.youtube.com/watch?v=Nk8blDitYUE)
+- [Think Twice Before Automating - 3 reasons not to automate your app! | SDET Unicorns #shorts](https://www.youtube.com/watch?v=CGY7GvJezO4)
+- [When to Stop Testing: A Crucial Question in Software QA Interviews | SDET Unicorns](https://www.youtube.com/watch?v=Nk8blDitYUE)
 - [Master API Test Automation using TypeScript |New Course Alert 🚀| SDET UNICORNS](https://www.youtube.com/watch?v=nLq39WZLPX4)
 - [A frequently asked interview question : When do you stop testing? | SDET UNICORNS](https://www.youtube.com/watch?v=jQ9ncEut2gk)
 - [Welcome to our rebranded Channel: SDET Unicorns](https://www.youtube.com/watch?v=5-pI8ZDYKjs)
-- [Difference between Black Box testing and White Box testing with examples | SDET Unicorns](https://www.youtube.com/watch?v=xQZPpTGUuTo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
