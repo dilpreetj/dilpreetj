@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Setting Up Selenium Docker with Chrome 115 &amp; 116: Navigating the Chromedriver Changes](https://www.youtube.com/watch?v=peHHavCgHKg)
 - [Linux Terminal Navigation Commands | Linux Command Line Series](https://www.youtube.com/watch?v=pedHJfZilw0)
 - [No More Chromedriver Mismatch! Update Your WebdriverIO Project Now | Chrome 115+](https://www.youtube.com/watch?v=3jMX4NYPPVk)
 - [Mastering Linux Man and Help Command | Linux Command Line Series | SDET Unicorns](https://www.youtube.com/watch?v=KggC-52LXi4)
 - [Think Twice Before Automating - 3 reasons not to automate your app! | SDET Unicorns #shorts](https://www.youtube.com/watch?v=CGY7GvJezO4)
-- [When to Stop Testing: A Crucial Question in Software QA Interviews | SDET Unicorns](https://www.youtube.com/watch?v=Nk8blDitYUE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
