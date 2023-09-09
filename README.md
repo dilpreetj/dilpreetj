@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [QA Interview Question: What Is the Defect Life Cycle? 🐞 #shorts](https://www.youtube.com/watch?v=sjmMigfQCZc)
 - [How to land Manual QA jobs in Canada? 💼 #shorts](https://www.youtube.com/watch?v=_tT6-DUB-Dw)
 - [You Won&#39;t Believe How Easy Test Automation is with Testsigma! 🤯](https://www.youtube.com/watch?v=pwUsO7syzt4)
 - [Is Coding Essential for  QA or Software Testing Roles? 🤔](https://www.youtube.com/watch?v=AkGdOEs-Vi4)
 - [Mastering the QA Interview Question: How to Test a Rate-Limited API?](https://www.youtube.com/watch?v=XYaAhC6zgqE)
-- [Chromedriver Selenium Python Setup using PyCharm](https://www.youtube.com/watch?v=jQW2fjgUJrY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
