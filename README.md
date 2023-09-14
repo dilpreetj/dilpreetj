@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [WebdriverIO vs Selenium - Must-Watch Comparison! ⚔️ #shorts](https://www.youtube.com/watch?v=TZGwZO2C4z0)
 - [WebdriverIO Tutorial: Prepare for your next interview | Part 1](https://www.youtube.com/watch?v=4DoQAGIBEUo)
 - [WebdriverIO Best Practices - Latest Update! 👈🏼](https://www.youtube.com/watch?v=AzLQpqkaeHk)
 - [QA Interview Question: What Is the Defect Life Cycle? 🐞 #shorts](https://www.youtube.com/watch?v=sjmMigfQCZc)
 - [How to land Manual QA jobs in Canada? 💼 #shorts](https://www.youtube.com/watch?v=_tT6-DUB-Dw)
-- [You Won&#39;t Believe How Easy Test Automation is with Testsigma! 🤯](https://www.youtube.com/watch?v=pwUsO7syzt4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
