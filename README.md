@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [WebdriverIO Find Element &lpar;$&rpar; Command | Interview Question #shorts](https://www.youtube.com/watch?v=V2KebQdOHWs)
 - [WebdriverIO Tutorial: Prepare for your next interview | Part 2](https://www.youtube.com/watch?v=-GojfZkT2nM)
 - [WebdriverIO vs Selenium - Must-Watch Comparison! ⚔️ #shorts](https://www.youtube.com/watch?v=TZGwZO2C4z0)
 - [WebdriverIO Tutorial: Prepare for your next interview | Part 1](https://www.youtube.com/watch?v=4DoQAGIBEUo)
 - [WebdriverIO Best Practices - Latest Update! 👈🏼](https://www.youtube.com/watch?v=AzLQpqkaeHk)
-- [QA Interview Question: What Is the Defect Life Cycle? 🐞 #shorts](https://www.youtube.com/watch?v=sjmMigfQCZc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
