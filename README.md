@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [WebdriverIO Tutorial: Prepare for your next interview | Part 4](https://www.youtube.com/watch?v=DffrTogMOsw)
 - [Selenium IDE vs Webdriver | What you should know!](https://www.youtube.com/watch?v=U06Fq4YOo5o)
 - [WebdriverIO $ vs $$ Commands | Interview Question #shorts](https://www.youtube.com/watch?v=3RyKbb4aibc)
 - [WebdriverIO Tutorial: Prepare for your next interview | Part 3](https://www.youtube.com/watch?v=E-XbFHmkMTY)
 - [WebdriverIO Find Element &lpar;$&rpar; Command | Interview Question #shorts](https://www.youtube.com/watch?v=V2KebQdOHWs)
-- [WebdriverIO Tutorial: Prepare for your next interview | Part 2](https://www.youtube.com/watch?v=-GojfZkT2nM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
