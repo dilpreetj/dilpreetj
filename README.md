@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [WebdriverIO vs Other Testing Frameworks ⚔️](https://www.youtube.com/watch?v=lKtdUEuauAs)
 - [WebdriverIO Tutorial: Prepare for your next interview | Part 5](https://www.youtube.com/watch?v=_pj4KKzp984)
 - [5 Cypress Key Features You Need to Know! 🤔](https://www.youtube.com/watch?v=OjxbCs2lNHA)
 - [Generate Allure Report with WebdriverIO 📊](https://www.youtube.com/watch?v=wCFGCtM_kt4)
 - [WebdriverIO Tutorial: Prepare for your next interview | Part 4](https://www.youtube.com/watch?v=DffrTogMOsw)
-- [Selenium IDE vs Webdriver | What you should know!](https://www.youtube.com/watch?v=U06Fq4YOo5o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
