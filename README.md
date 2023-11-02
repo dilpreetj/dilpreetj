@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How assertions work in WebdriverIO?](https://www.youtube.com/watch?v=HLTy1w1wBns)
 - [No More Captcha Headaches: Automate using Selenium](https://www.youtube.com/watch?v=vy0bKAJStiw)
 - [WebdriverIO Tutorial | Full Crash Course | Latest Version](https://www.youtube.com/watch?v=ocr0gi7zeiM)
 - [WebdriverIO vs Other Testing Frameworks ⚔️](https://www.youtube.com/watch?v=lKtdUEuauAs)
 - [WebdriverIO Tutorial: Prepare for your next interview | Part 5](https://www.youtube.com/watch?v=_pj4KKzp984)
-- [5 Cypress Key Features You Need to Know! 🤔](https://www.youtube.com/watch?v=OjxbCs2lNHA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
