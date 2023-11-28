@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Playwright Tutorial - Assertions &amp; Locators | Part 2](https://www.youtube.com/watch?v=4tzy9_Ncbyg)
 - [Playwright Tutorial - Project &amp; Test Setup | Part 1](https://www.youtube.com/watch?v=pY4VdWq5tnA)
 - [Email Verification with Selenium Python | Read Email Content](https://www.youtube.com/watch?v=ibpE456OLOo)
 - [How to test iFrame with Cypress? 🖼️](https://www.youtube.com/watch?v=heyJC5IuASw)
 - [How assertions work in WebdriverIO?](https://www.youtube.com/watch?v=HLTy1w1wBns)
-- [No More Captcha Headaches: Automate using Selenium](https://www.youtube.com/watch?v=vy0bKAJStiw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
