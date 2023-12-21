@@ -20,9 +20,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux Command Line Essentials for Beginners](https://automationbro.com/blog/linux-command-line/?utm_source=rss&utm_medium=rss&utm_campaign=linux-command-line)
-- [Data Driven Testing using Newman CLI](https://automationbro.com/blog/newman-data-driven-testing/?utm_source=rss&utm_medium=rss&utm_campaign=newman-data-driven-testing)
-- [Data Driven Testing using JSON file in Postman](https://automationbro.com/blog/data-driven-testing-using-json-file-in-postman/?utm_source=rss&utm_medium=rss&utm_campaign=data-driven-testing-using-json-file-in-postman)
-- [Postman Data Driven Testing with CSV file](https://automationbro.com/blog/postman-csv-data-driven-testing/?utm_source=rss&utm_medium=rss&utm_campaign=postman-csv-data-driven-testing)
-- [Can an AI &lpar;ChatGPT&rpar; tool write Test Automation scripts?](https://automationbro.com/blog/chatgpt-test-automation/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-test-automation)
+- [Playwright and TypeScript: Get Started with the Best Automation Framework!](https://sdetunicorns.com/blog/playwright-typescript-get-started/)
+- [Test Plan vs Test Case: Unlocking the Key Differences](https://sdetunicorns.com/blog/test-plan-vs-test-case/)
+- [Test Scenario Vs Test Case – Key Differences](https://sdetunicorns.com/blog/test-scenario-vs-test-case/)
+- [Smoke Testing vs Sanity Testing vs Regression Testing: A Comprehensive Guide](https://sdetunicorns.com/blog/smoke-testing-vs-sanity-testing-vs-regression-testing/)
+- [Automated Testing: How Does it Fit in DevOps?](https://sdetunicorns.com/blog/automated-testing-in-devops/)
 <!-- BLOG-POST-LIST:END -->
