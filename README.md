@@ -10,11 +10,11 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🎉Master Web Automation with SeleniumBase and Python | New Course Alert!  🎉](https://www.youtube.com/watch?v=h22aUr6OZkY)
 - [Playwright Tutorial - Interacting with Tables &amp; Rows | Part 4](https://www.youtube.com/watch?v=CWwe0d8H2Hs)
 - [How Cypress Handles Async Behaviour | Interview Question #shorts](https://www.youtube.com/watch?v=9HV-BAyHdA8)
 - [How to use Xpath with WebdriverIO?](https://www.youtube.com/watch?v=JH6UNONqaBQ)
 - [Playwright Tutorial - Handling Multiple Elements | Part 3](https://www.youtube.com/watch?v=w7arNcTebVc)
-- [Playwright Tutorial - Assertions &amp; Locators | Part 2](https://www.youtube.com/watch?v=4tzy9_Ncbyg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
