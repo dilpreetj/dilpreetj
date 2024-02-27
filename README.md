@@ -20,9 +20,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Inspect Elements in Chrome?](https://sdetunicorns.com/blog/how-to-inspect-elements-in-chrome/)
 - [Understanding Decision Table Testing: A Comprehensive Guide](https://sdetunicorns.com/blog/decision-table-testing/)
 - [Understanding Equivalence Partitioning and Boundary Value Analysis in Software Testing](https://sdetunicorns.com/blog/equivalence-partitioning-and-boundary-value-analysis/)
 - [Functional Testing vs Integration Testing: A Detailed Guide on the Differences](https://sdetunicorns.com/blog/functional-testing-vs-integration-testing/)
 - [Playwright and TypeScript: Get Started with the Best Automation Framework!](https://sdetunicorns.com/blog/playwright-typescript-get-started/)
-- [Test Plan vs Test Case: Unlocking the Key Differences](https://sdetunicorns.com/blog/test-plan-vs-test-case/)
 <!-- BLOG-POST-LIST:END -->
