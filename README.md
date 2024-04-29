@@ -20,9 +20,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Case Testing: Comprehensive Guide With Best Practices](https://sdetunicorns.com/blog/use-case-testing-best-practices/)
 - [Common Types of Software Bugs](https://sdetunicorns.com/blog/common-types-of-software-bugs/)
 - [How to Inspect Elements in Chrome?](https://sdetunicorns.com/blog/how-to-inspect-elements-in-chrome/)
 - [Understanding Decision Table Testing: A Comprehensive Guide](https://sdetunicorns.com/blog/decision-table-testing/)
 - [Understanding Equivalence Partitioning and Boundary Value Analysis in Software Testing](https://sdetunicorns.com/blog/equivalence-partitioning-and-boundary-value-analysis/)
-- [Functional Testing vs Integration Testing: A Detailed Guide on the Differences](https://sdetunicorns.com/blog/functional-testing-vs-integration-testing/)
 <!-- BLOG-POST-LIST:END -->
