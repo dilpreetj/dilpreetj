@@ -20,9 +20,9 @@ My name is Dilpreet Johal! I believe getting started with **Test Automation** sh
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Principles of Software Testing with Examples](https://sdetunicorns.com/blog/7-principles-of-software-testing/)
 - [Key Differences Between CI/CD and DevOps](https://sdetunicorns.com/key-differences-between-cicd-and-devops/)
 - [Use Case Testing: Comprehensive Guide With Best Practices](https://sdetunicorns.com/blog/use-case-testing-best-practices/)
 - [Common Types of Software Bugs](https://sdetunicorns.com/blog/common-types-of-software-bugs/)
 - [How to Inspect Elements in Chrome?](https://sdetunicorns.com/blog/how-to-inspect-elements-in-chrome/)
-- [Understanding Decision Table Testing: A Comprehensive Guide](https://sdetunicorns.com/blog/decision-table-testing/)
 <!-- BLOG-POST-LIST:END -->
